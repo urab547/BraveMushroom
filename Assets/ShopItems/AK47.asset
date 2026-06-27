@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bdf1c476279079545bba389dd578eac8, type: 3}
+  m_Name: AK47
+  m_EditorClassIdentifier: Assembly-CSharp::ShopItemData
+  itemName: AK47
+  icon: {fileID: 8271715202566429118, guid: 6987c1c3f6f19cb4f9732af888bd2337, type: 3}
+  price: 35
+  description: "\u5A01\u6743\u7684\u547C\u5578"
+  weaponPrefab: {fileID: 8058448618245132789, guid: edd12a1589e014a4b9e67a1bc0c4ab8f, type: 3}
+  modifiers: []

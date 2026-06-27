@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bdf1c476279079545bba389dd578eac8, type: 3}
+  m_Name: Potion
+  m_EditorClassIdentifier: Assembly-CSharp::ShopItemData
+  itemName: "\u72C2\u66B4"
+  icon: {fileID: 4174994445141526292, guid: 168f41980bc83b142aa52e4b3cb56ca4, type: 3}
+  price: 25
+  description: "\u6211\u7684\u8EAB\u4F53\u6D8C\u8D77\u4E86\u65E0\u7A77\u7684\u529B\u91CF"
+  weaponPrefab: {fileID: 0}
+  modifiers:
+  - type: 1
+    value: 0.3
+  - type: 3
+    value: 0.5
+  - type: 0
+    value: 2
